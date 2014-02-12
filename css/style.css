@@ -1779,12 +1779,12 @@ ul#filters > .active > span {
 
 /*----*/
 
-.m10 {
-  margin: 10px;
-}
-.m20 {
-  margin: 20px;
-}
-.mbot50 {
-  margin-bottom: 50px;
+.m10 { margin: 10px; }
+.m20 { margin: 20px; }
+.mbot25 { margin-bottom: 25px; }
+.mbot50 { margin-bottom: 50px; }
+
+.li-logo {
+  font-size:25px;
+  margin-left: 10px;
 }
