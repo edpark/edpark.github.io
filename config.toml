@@ -1,0 +1,4 @@
+baseURL = 'https://edpark.github.io/'
+languageCode = 'en-us'
+title = ''
+theme = 'eternity'
