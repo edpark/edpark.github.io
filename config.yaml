@@ -25,7 +25,7 @@ params:
   specialPages:
     - work
     - archive
-  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
   plausible: '' # todo: set your plausible id.
   disableRadius: false
   moveIt: false # Moves Title and Meta info down, only visible when scroll.
